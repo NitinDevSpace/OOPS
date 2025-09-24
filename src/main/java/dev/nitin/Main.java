@@ -10,5 +10,6 @@ public class Main {
 
         System.out.println(bankAccount.getOwnerName());
         System.out.println(bankAccount.getBalance());
+
     }
 }
